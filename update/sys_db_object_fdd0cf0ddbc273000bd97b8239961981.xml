@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>true</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>suggestion table</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_366664_sinduit_suggestion_table</name>
+        <number_ref display_value="SUG">a0435749db0673000bd97b8239961929</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 17:43:47</sys_created_on>
+        <sys_id>fdd0cf0ddbc273000bd97b8239961981</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>suggestion table</sys_name>
+        <sys_package display_value="sinduit" source="x_366664_sinduit">6cdb7150db0233000bd97b8239961950</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">6cdb7150db0233000bd97b8239961950</sys_scope>
+        <sys_update_name>sys_db_object_fdd0cf0ddbc273000bd97b8239961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 18:49:48</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_366664_sinduit.suggestion_table_user" name="x_366664_sinduit.suggestion_table_user">11240bcddbc273000bd97b8239961991</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

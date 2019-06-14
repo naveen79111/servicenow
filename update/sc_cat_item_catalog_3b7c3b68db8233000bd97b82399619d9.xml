@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="create log incident">6d1a7728db8233000bd97b8239961952</sc_cat_item>
+        <sc_catalog display_value="sicet service catlog">e131d7e8db0233000bd97b823996190b</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 08:33:00</sys_created_on>
+        <sys_id>3b7c3b68db8233000bd97b82399619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sicet service catlog.create log incident</sys_name>
+        <sys_package display_value="sinduit" source="x_366664_sinduit">6cdb7150db0233000bd97b8239961950</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">6cdb7150db0233000bd97b8239961950</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_3b7c3b68db8233000bd97b82399619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 08:33:00</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

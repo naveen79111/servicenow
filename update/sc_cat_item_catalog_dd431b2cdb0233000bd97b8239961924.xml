@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="sales laptop">ff235f2cdb0233000bd97b823996193b</sc_cat_item>
+        <sc_catalog display_value="sicet service catlog">e131d7e8db0233000bd97b823996190b</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:32:54</sys_created_on>
+        <sys_id>dd431b2cdb0233000bd97b8239961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sicet service catlog.sales laptop</sys_name>
+        <sys_package display_value="sinduit" source="x_366664_sinduit">6cdb7150db0233000bd97b8239961950</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">6cdb7150db0233000bd97b8239961950</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_dd431b2cdb0233000bd97b8239961924</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:32:54</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="administrative" max_length="40" name="x_366664_sinduit_administrative" type="collection">
+        <element label="department" max_length="100" name="department" type="string"/>
+        <element label="dpt id" max_length="40" name="dpt_id" type="float"/>
+        <element label="name" max_length="100" name="name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_2" type="glide_list"/>
+        <element label="New Icon" max_length="100" name="u_icon_1" type="icon"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

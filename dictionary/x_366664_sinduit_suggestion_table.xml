@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="suggestion table" max_length="40" name="x_366664_sinduit_suggestion_table" type="collection">
+        <element choice="1" display="true" label="choice" max_length="100" name="choice" type="choice">
+            <choice/>
+        </element>
+        <element label="fieldname" max_length="100" name="fieldname" type="field_name"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="table name" max_length="100" name="table_name" type="table_name"/>
+    </element>
+</database>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident " max_length="40" name="x_366664_sinduit_log_incident" sizeclass="4" type="collection">
+        <element choice="1" label="affected" max_length="40" name="affected" reference="sys_user" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+            </choice>
+        </element>
+        <element choice="1" label="contact type2" max_length="100" name="contact_type2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="abc" sequence="0"/>
+            </choice>
+        </element>
+        <element label="sinducol2" max_length="100" name="sinducol2" read_only="true" type="string"/>
+        <element default="default val" label="sindu coll" max_length="100" name="sindu_coll" type="string"/>
+    </element>
+</database>
